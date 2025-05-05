@@ -1,6 +1,6 @@
 # Neural Cellular Automata for Digit Generation
 
-This repository contains an implementation of an advanced Neural Cellular Automata (NCA) model developed using PyTorch for the purpose of generating handwritten digit images from the MNIST dataset. The model integrates digit-specific embeddings that significantly enhance digit-awareness and improve the quality of image reconstruction.
+This repository contains an implementation of an advanced Neural Cellular Automata (NCA) model developed using PyTorch for the purpose of generating handwritten digit images from the MNIST dataset. The model integrates digit-specific embeddings that significantly enhance digit-awareness and improve the quality of image reconstruction. This project was a part of my assignment
 
 ## Overview
 
@@ -51,6 +51,8 @@ python your_script_name.py
 ## Results
 
 The trained NCA model effectively generates accurate and visually coherent digit images, demonstrating competitive pixel accuracy on the MNIST dataset.
+![image](https://github.com/user-attachments/assets/cfcb4ed5-a51c-477b-b68d-086deac680d1)
+For my test in NVIDIA T4 GPU, the accuracy came as 92.53%
 
 ## Contributing
 
