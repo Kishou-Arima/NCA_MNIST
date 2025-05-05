@@ -37,15 +37,15 @@ pip install torch torchvision numpy matplotlib
 To fine-tune the unified NCA model:
 
 ```bash
-python your_script_name.py
+python main_script.py
 ```
 
 ### Evaluation
 
-After training, evaluate and visualize model performance:
+If the model has been found by the code, after training, evaluate and visualize model performance:
 
 ```bash
-python your_script_name.py
+python main_script.py
 ```
 
 ## Results
